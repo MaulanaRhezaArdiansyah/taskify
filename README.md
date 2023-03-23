@@ -55,7 +55,7 @@ You can start editing the page by modifying `App.tsx`. The page auto-updates as 
 
 <!-- LINK -->
 
-[react.js]: https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react.js&logoColor=61DAFB
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react.js&logoColor=61DAFB
 [react-url]: https://reactjs.dev/
 [typescript]: https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
 [typescript-url]: https://www.typescriptlang.org/
